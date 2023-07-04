@@ -1,6 +1,6 @@
 # restaurant-project
 
-![Javatpoint](https://github.com/Criziz21/restaurant-project-vue/Снимок веб-страницы_4-7-2023_124639_localhost.jpeg) 
+![Javatpoint](https://raw.githubusercontent.com/Criziz21/restaurant-project-vue/master/res-img.jpeg)
 
 ## Project setup
 ```
